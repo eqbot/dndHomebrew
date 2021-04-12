@@ -19,7 +19,7 @@
 	"class": [
 		{
 			"name": "Rivemis Shaper",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"hd": {
@@ -333,17 +333,15 @@
 				}
 			],
 			"classFeatures": [
-				"Shaping|Rivemis Shaper|AH|1",
-				"Delusion|Rivemis Shaper|AH|1",
-				"Cantrips|Rivemis Shaper|AH|1",
-				"Overdraw|Rivemis Shaper|AH|2",
-				"Rivemis Enhancement|Rivemis Shaper|AH|3",
-				"Ability Score Improvement|Rivemis Shaper|AH|4",
-				"Ability Score Improvement|Rivemis Shaper|AH|8",
-				"Ability Score Improvement|Rivemis Shaper|AH|12",
-				"Ability Score Improvement|Rivemis Shaper|AH|16",
-				"Ability Score Improvement|Rivemis Shaper|AH|19",
-				"Shaping Master|Rivemis Shaper|AH|20"
+				"Shaping|Rivemis Shaper|AndyHomebrew|1",
+				"Overdraw|Rivemis Shaper|AndyHomebrew|2",
+				"Rivemis Enhancement|Rivemis Shaper|AndyHomebrew|3",
+				"Ability Score Improvement|Rivemis Shaper|AndyHomebrew|4",
+				"Ability Score Improvement|Rivemis Shaper|AndyHomebrew|8",
+				"Ability Score Improvement|Rivemis Shaper|AndyHomebrew|12",
+				"Ability Score Improvement|Rivemis Shaper|AndyHomebrew|16",
+				"Ability Score Improvement|Rivemis Shaper|AndyHomebrew|19",
+				"Shaping Master|Rivemis Shaper|AndyHomebrew|20"
 			],
 			"subclassTitle": "None",
 			"subclasses": [],
@@ -615,11 +613,11 @@
 	"classFeature": [
 		{
 			"name": "Shaping",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 1,
 			"entries": [
 				"As a Rivemis Shaper, you have a Delusion which gives form to your powers. Generally, it is a perception of a particularly emotional event in your past. For instance, imagining the world burning due to your rage will likely grant someone dominion over fire.",
@@ -662,11 +660,11 @@
 		},
 		{
 			"name": "Overdraw",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 2,
 			"entries": [
 				"At 2nd Level, you gain the ability to Overdraw due to your deeper understanding and experience with Shaping. Reshaping your emotions into Forms draws heavily upon your life-force, which is why you can only use your power a few times before resting. By overdrawing, you can surpass the number of Forms you can safely use.",
@@ -701,11 +699,11 @@
 		},
 		{
 			"name": "Rivemis Enhancement",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 3,
 			"entries": [
 				"Through your innovation of learning new Forms and increasing familiarity with them, you have figured out ways to modify your powers.",
@@ -714,11 +712,11 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 4,
 			"entries": [
 				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -727,11 +725,11 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 8,
 			"entries": [
 				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -740,11 +738,11 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 12,
 			"entries": [
 				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -753,11 +751,11 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 16,
 			"entries": [
 				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -766,11 +764,11 @@
 		},
 		{
 			"name": "Ability Score Improvement",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 19,
 			"entries": [
 				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
@@ -779,11 +777,11 @@
 		},
 		{
 			"name": "Shaping Master",
-			"source": "AK",
+			"source": "AndyHomebrew",
 			"page": 69,
 			"srd": false,
 			"className": "Rivemis Shaper",
-			"classSource": "AK",
+			"classSource": "AndyHomebrew",
 			"level": 20,
 			"entries": [
 				"At 20th level, your mastery over your Delusion and the fundamentals of Shaping allow you to surpass your limits even further. You can choose one of the following enhancements as manifestations of your prowess.",
