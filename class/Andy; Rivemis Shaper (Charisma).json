@@ -6,8 +6,12 @@
 				"json": "AndyHomebrew",
 				"abbreviation": "AH",
 				"full": "Rivemis Shaper",
-				"authors": [ "Andy" ],
-				"convertedBy": [ "Trent" ],
+				"authors": [
+					"Andy"
+				],
+				"convertedBy": [
+					"Trent"
+				],
 				"version": "1.0.0"
 			}
 		]
@@ -125,7 +129,7 @@
 					{
 						"choose": {
 							"from": [
-                                "acrobatics",
+								"acrobatics",
 								"arcana",
 								"deception",
 								"insight",
@@ -145,7 +149,7 @@
 					"(a) a {@item light crossbow|phb} and {@item crossbow bolts (20)|phb|20 bolts} or (b) any {@filter simple weapon|items|source=phb|category=basic|type=simple weapon}",
 					"(a) a {@item scholar's pack|phb} or (b) a {@item explorer's pack|phb}",
 					"{@item Leather armor|phb}, any {@filter simple weapon|items|source=phb|category=basic|type=simple weapon}, and two {@item dagger|phb|daggers}",
-                    "a {@item healer's kit|phb}"
+					"a {@item healer's kit|phb}"
 				],
 				"goldAlternative": "{@dice 4d4 × 10|4d4 × 10|Starting Gold}",
 				"defaultData": [
@@ -178,7 +182,7 @@
 								"item": "dagger|phb",
 								"quantity": 2
 							},
-                            "healer's kit|phb"
+							"healer's kit|phb"
 						]
 					}
 				]
@@ -207,139 +211,139 @@
 					"rows": [
 						[
 							1,
-                            1,
-                            1,
-                            0
+							1,
+							1,
+							0
 						],
 						[
 							1,
-                            2,
-                            2,
-                            0
+							2,
+							2,
+							0
 						],
 						[
 							1,
-                            2,
-                            2,
-                            1
+							2,
+							2,
+							1
 						],
 						[
 							1,
-                            3,
-                            2,
-                            1
+							3,
+							2,
+							1
 						],
 						[
 							2,
-                            3,
-                            2,
-                            1
+							3,
+							2,
+							1
 						],
 						[
 							2,
-                            4,
-                            2,
-                            2
+							4,
+							2,
+							2
 						],
 						[
 							2,
-                            4,
-                            2,
-                            2
+							4,
+							2,
+							2
 						],
 						[
 							2,
-                            5,
-                            2,
-                            2
+							5,
+							2,
+							2
 						],
 						[
 							3,
 							5,
-                            2,
-                            2
+							2,
+							2
 						],
 						[
 							3,
-                            6,
-                            2,
-                            3
+							6,
+							2,
+							3
 						],
 						[
 							3,
-                            6,
-                            3,
-                            3
+							6,
+							3,
+							3
 						],
 						[
 							3,
-                            7,
-                            3,
-                            3
+							7,
+							3,
+							3
 						],
 						[
 							4,
 							7,
-                            3,
-                            3
+							3,
+							3
 						],
 						[
 							4,
 							8,
-                            3,
-                            4
+							3,
+							4
 						],
 						[
 							4,
 							8,
-                            3,
-                            4
+							3,
+							4
 						],
 						[
 							4,
 							9,
-                            3,
-                            4
+							3,
+							4
 						],
 						[
 							5,
-                            9,
-                            4,
-                            4
+							9,
+							4,
+							4
 						],
 						[
 							5,
-                            10,
-                            4,
-                            5
+							10,
+							4,
+							5
 						],
 						[
 							5,
-                            10,
-                            4,
-                            5
+							10,
+							4,
+							5
 						],
 						[
 							5,
-                            11,
-                            4,
-                            5
+							11,
+							4,
+							5
 						]
 					]
 				}
 			],
 			"classFeatures": [
-				"Shaping|Rivemis Shaper||1",
-				"Delusion|Rivemis Shaper||1",
-                "Cantrips|Rivemis Shaper||1",
-				"Overdraw|Rivemis Shaper||2",
-				"Rivemis Enhancement|Rivemis Shaper||3",
-				"Ability Score Improvement|Rivemis Shaper||4",
-				"Ability Score Improvement|Rivemis Shaper||8",
-				"Ability Score Improvement|Rivemis Shaper||12",
-				"Ability Score Improvement|Rivemis Shaper||16",
-				"Ability Score Improvement|Rivemis Shaper||19",
-				"Shaping Master|Rivemis Shaper||20"
+				"Shaping|Rivemis Shaper|AH|1",
+				"Delusion|Rivemis Shaper|AH|1",
+				"Cantrips|Rivemis Shaper|AH|1",
+				"Overdraw|Rivemis Shaper|AH|2",
+				"Rivemis Enhancement|Rivemis Shaper|AH|3",
+				"Ability Score Improvement|Rivemis Shaper|AH|4",
+				"Ability Score Improvement|Rivemis Shaper|AH|8",
+				"Ability Score Improvement|Rivemis Shaper|AH|12",
+				"Ability Score Improvement|Rivemis Shaper|AH|16",
+				"Ability Score Improvement|Rivemis Shaper|AH|19",
+				"Shaping Master|Rivemis Shaper|AH|20"
 			],
 			"subclassTitle": "None",
 			"subclasses": [],
@@ -657,7 +661,7 @@
 			]
 		},
 		{
-			"name":"Overdraw",
+			"name": "Overdraw",
 			"source": "AK",
 			"page": 69,
 			"srd": false,
@@ -670,10 +674,16 @@
 				{
 					"type": "table",
 					"caption": "Overdraw Effects",
-					"colLabels": [ "Overdraw Count", "Consequence" ],
-					"colStyles": [ "col-1", "col-11" ],
+					"colLabels": [
+						"Overdraw Count",
+						"Consequence"
+					],
+					"colStyles": [
+						"col-1",
+						"col-11"
+					],
 					"rows": [
-						[ 
+						[
 							"Every",
 							"d6 damage to self for every two Rivemis Shaper levels you possess."
 						],
@@ -780,9 +790,7 @@
 				{
 					"type": "options",
 					"count": 1,
-					"entries": [
-
-					]
+					"entries": []
 				}
 			]
 		}
