@@ -1,0 +1,105 @@
+{
+    "$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "AndyHomebrew",
+				"abbreviation": "AH",
+				"full": "Rivemis Shaper Enhancements",
+				"authors": [ "Andy" ],
+				"convertedBy": [ "Trent" ],
+				"version": "1.0.0"
+			}
+		]
+	},
+    "optionalfeature": [
+        {
+            "name": "Attuned Domain",
+            "source": "AndyHomebrew",
+            "page": 420,
+            "featureType": [
+                "RE"
+            ],
+            "entries": [
+                "Your power grants you familiarity with certain aspects of life. For instance, a Delusion centered around fire will have a certain understanding of flames. Gain advantage on Skill Checks and Saving Throws associated with your power."
+            ]
+        },
+        {
+            "name": "Delusional Skills",
+            "source": "AndyHomebrew",
+            "page": 420,
+            "featureType": [
+                "RE"
+            ],
+            "entries": [
+                "You have figured out a method of using your power to aid in your skills. Choose two skills that your power may reasonably assist with, and add your Shaping Ability to any Skill Checks made with those skills."
+            ]
+        },
+        {
+            "name": "Extra Form",
+            "source": "AndyHomebrew",
+            "page": 420,
+            "featureType": [
+                "RE"
+            ],
+            "entries": [
+                "Increase your number of Forms Known by one. This enhancement can be chosen any number of times."
+            ]
+        },
+        {
+            "name": "Form Evolution",
+            "source": "AndyHomebrew",
+            "page": 420,
+            "featureType": [
+                "RE"
+            ],
+            "entries": [
+                "Through extensive use, or the deeper exploration of your Delusion, one of your Forms evolves. You can add an additional effect to one of your Forms. This enhancement can be chosen any number of times, but the same Form cannot be chosen more than once."
+            ]
+        },
+        {
+            "name": "Greater Form",
+            "source": "AndyHomebrew",
+            "page": 420,
+            "featureType": [
+                "RE"
+            ],
+            "entries": [
+                "Once per Long Rest, you may use your Greater Form. A Greater Form is a particularly strong shaping of your Delusion with far fewer limits on strength."
+            ]
+        },
+        {
+            "name": "Habitual Overdrawing",
+            "source": "AndyHomebrew",
+            "page": 420,
+            "featureType": [
+                "RE"
+            ],
+            "entries": [
+                "The damage dice on Overdrawing is reduced from d6s to d4s."
+            ]
+        },
+        {
+            "name": "Overcharge",
+            "source": "AndyHomebrew",
+            "page": 420,
+            "featureType": [
+                "RE"
+            ],
+            "entries": [
+                "You may choose to Overcharge a spell by Overdrawing. When you Overcharge a spell, the effects vary depending on the Form. Typically, it will multiply the effectiveness of the Form by 1.5."
+            ]
+        },
+        {
+            "name": "Superior Cantrip",
+            "source": "AndyHomebrew",
+            "page": 420,
+            "featureType": [
+                "RE"
+            ],
+            "entries": [
+                "You can enhance a cantrip to add your Shaping Ability to its damage or other such numbers."
+            ]
+        }
+    ]
+}

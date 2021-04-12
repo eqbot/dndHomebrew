@@ -1,4 +1,17 @@
 {
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "AndyHomebrew",
+				"abbreviation": "AH",
+				"full": "Rivemis Shaper",
+				"authors": [ "Andy" ],
+				"convertedBy": [ "Trent" ],
+				"version": "1.0.0"
+			}
+		]
+	},
 	"class": [
 		{
 			"name": "Rivemis Shaper",
